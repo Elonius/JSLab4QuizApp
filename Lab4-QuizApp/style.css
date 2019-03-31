@@ -1,0 +1,64 @@
+body {
+    padding: 0 30% 0 30%;
+    background-color: #e7e7e7;
+}
+
+#title {
+    color: #af2300;
+    font-size: 2.5em;
+}
+
+.card {
+    border: 1px solid black;
+    background-color: #e7c921c9;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 20px;
+    font-size: 1.3em;
+}
+
+.questionNum {
+    font-size: 1.5em;
+    color: #af2300;
+    border-bottom: 1px solid black;
+}
+
+.question {
+    padding-left: 15px;
+    color: #131313;
+}
+
+.choices {
+    padding-left: 35px;
+    line-height: 175%;
+    color: #131313;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px;
+}
+
+#btnPrevious {
+    margin-left: 150px;
+}
+
+#btnNext {
+    margin-right: 150px;
+    float: right;
+}
+
+#btnSubmit {
+    margin: 0 auto;
+    display: block;
+    margin-top: 20px;
+}
+
+#resultsDiv {
+    border: 1px solid black;
+    background-color: #e7c921c9;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 20px;
+    font-size: 1.3em;
+}
