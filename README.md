@@ -3,6 +3,7 @@ Uses a JSON file to build a quiz
 
 
 Assignment 4–Quiz App
+
 Part 1
 Use the data in the file “GeographyQuiz.json” to construct the web page shown below. The style doesn’t have to be the same as shown, but it has to be nice.
 
